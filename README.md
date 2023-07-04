@@ -1,10 +1,8 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
-
-  <h3><b>Awesome books</b></h3>
+  <h3><b>Awesome Books</b></h3>
 
 </div>
 
@@ -50,7 +48,7 @@ A simple Book storing web app.
 
 ### setup
 <p>Clone this repository to your desired folder</p>
-<a href ="https://github.com/Zel-hub7/Awesome_Books.git"></a>
+<a href ="https://github.com/Lawmsangi/Awesome-books.git"></a>
 
 ### Install
 
@@ -79,8 +77,8 @@ npx stylelint "*/.{css,scss}"
 
 👤 **Author1**
 
-- GitHub: [@Zelalem](https://github.com/Zel-hub7)
-- LinkedIn: [@Zelalem](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Lawmsangi)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lawmsangi-varte-baa429244/)
 
 👤 **Author2**
 
@@ -128,8 +126,6 @@ I would like to thank all the microverse team and my coding partners.
 
 ## 📝 License <a name="license"></a>
 
-This project is [<a href = "MIT.md">MIT</a>](./LICENSE) licensed.
-
-
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
