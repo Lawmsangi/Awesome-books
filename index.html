@@ -3,15 +3,55 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
     <title>Document</title>
 </head>
 <body>
-    <ul id="book-list"></ul>
-    <form action="">
-        <input type="text" id="title">
-        <input type="text" id="author">
-        <button type="submit" id="btn">Add</button>
-    </form>
-    <script src="script.js"></script>
+    <header id="header">
+        <nav>
+            <a href="#">Awesome Books</a>
+            <ul>
+                <li><a href="#" id="show-list">List</a></li>
+                <li><a href="#" id="show-add">Add new</a></li>
+                <li><a href="#" id="show-contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <p id="date"></p>
+
+    <section id="book-list-section" >
+        <div class="content">
+            <h1>All awesome books</h1>
+            <ul id="book-list"></ul>
+        </div>
+    </section>
+
+    <section id="add-book-section">
+        <form action="#" class="form-div" method="post">
+            <h2>Add a new book</h2>
+            <input type="text" id="title" placeholder="Title" required />
+            <input type="text" id="author" placeholder="Author" required />
+            <button id="btn" type="submit" >Add</button>
+        </form>
+    </section>
+
+    <section id="contact-section">
+        <h2>Contact information</h2>
+        <p>Do have any questions or you just want to say "Hello"? <br> You can reach out to us!</p>
+        <ul>
+            <li>Our email: ddarkphoenixx22@gmail.com</li>
+            <li>Our phone number: 8974927821</li>
+            <li>Our address: Zion Street 22, K-12, Aizawl</li>
+        </ul>
+    </section>
+
+    <footer>
+        <div class="footer">
+            Copyright &copy;
+        </div>
+    </footer>
+  
+    <script src="index.js"></script>
 </body>
 </html>
